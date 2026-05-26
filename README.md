@@ -2,4 +2,4 @@
 Laboratorios de Diseño de Software
 
 
-En la branch titulada "Master" se encuentra el laboratorio 1 y 2.
+En la branch titulada "Master" se encuentra el laboratorio 1, 2 y 3.
